@@ -13,6 +13,4 @@ Once upon a time when I was in college, I was a part of a scientific research gr
 
 Other than work, music occupies a place in my life. These days sadly I do not make music as much as I would like to however I used to [sing](https://www.youtube.com/watch?v=ge9UOFyBrcg) in choirs and [play](https://www.youtube.com/watch?v=nJRkVCx2wnw) in a band with my friends when I was college. 
 
-Also, I have some cool friends. Make sure you check out their work!
-- [unearth](https://www.shreyashetty.co.in) by Shreya Shetty
-
+Click [here](https://github.com/mert-kirpici/kirpici.me) if you want to check out the source code for this website.
