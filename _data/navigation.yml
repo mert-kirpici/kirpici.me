@@ -1,5 +1,5 @@
 main:
-  - title: "about"
-    url: /about/
+  - title: "blog"
+    url: /archives/
   - title: "github"
     url: https://github.com/mert-kirpici

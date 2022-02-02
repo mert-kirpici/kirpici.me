@@ -20,8 +20,9 @@
 
 title: kirpici.me
 author: Selim Mert Kırpıcı
+year: 2022
 email: smertk@gmail.com
-description:  Copyright 2022, Selim Mert Kırpıcı. All rights reserved. 
+description: Personal website of Selim Mert Kirpici
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://kirpici.me" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -38,10 +39,8 @@ paginate: 5
 
 jekyll-archives:
   enabled:
-    - categories
     - tags
   layout: category_archives
   permalinks:
-    category: /categories/:name/
     tag: /tags/:name/
 
