@@ -1,5 +1,5 @@
 main:
-  - title: "blog"
-    url: /archives/
   - title: "github"
     url: https://github.com/mert-kirpici
+  - title: "linkedin"
+    url: https://linkedin.com/in/selim-kirpici
