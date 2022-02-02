@@ -45,8 +45,3 @@ jekyll-archives:
     category: /categories/:name/
     tag: /tags/:name/
 
-main:
-  - title: "About"
-    url: /about/
-  - title: "GitHub"
-    url: https://github.com/mert-kirpici
